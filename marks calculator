@@ -1,7 +1,6 @@
-# demo-repo
-my first repo.
-
+#my first code
 Author-sameer
+
 students = int(input("How many students are there?\n>"))
 subjects = int(input("How many subjects are there?\n>"))
 
